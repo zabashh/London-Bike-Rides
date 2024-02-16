@@ -1,4 +1,4 @@
-| Tableau Dashboard - London Bike Sharing | 
+## | Tableau Dashboard - London Bike Sharing | 
 [![Dashboard](images/dash.png)](https://public.tableau.com/app/profile/muhammad.zohaib.hashmi/viz/LondonBikeRides_16996789376210/Dashboard1)
 
 # Data Gathering and Manipulation:
