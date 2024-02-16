@@ -1,4 +1,5 @@
-| Tableau Dashboard - London Bike Sharing |
+| Tableau Dashboard - London Bike Sharing | 
+![Dashboard](images/dash.png)
 
 # Data Gathering and Manipulation:
 This repository encompasses a project centered around the "London bike sharing dataset" sourced from Kaggle. The dataset has been meticulously processed and manipulated utilizing the Pandas library in Python. The resultant file, reflecting the refined dataset, is included within this repository.
